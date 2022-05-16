@@ -1,2 +1,1 @@
-# Mi-skeleton-ApiRest-nodejs
-Skeleton apirest nodejs y mongoDB
+# Template API REST con Nodejs
